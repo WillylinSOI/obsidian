@@ -1,0 +1,20 @@
+{
+  "cssTheme": "Obsidian Nord",
+  "enabledCssSnippets": [
+    "多彩顏色框_文字用(note-color-(background))",
+    "彩色標籤",
+    "資料夾前加入圖案",
+    "S - Checkboxes",
+    "S - Images Adjustments",
+    "supercharged-links-gen",
+    "xxx較小的滾動條",
+    "xxx更好看的引用框"
+  ],
+  "baseFontSize": 12,
+  "theme": "obsidian",
+  "accentColor": "#6e92a6",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "textFontFamily": "Microsoft YaHei",
+  "interfaceFontFamily": "微軟正黑體"
+}

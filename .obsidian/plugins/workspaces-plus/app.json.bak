@@ -1,0 +1,21 @@
+{
+  "foldIndent": true,
+  "readableLineLength": false,
+  "promptDelete": true,
+  "useMarkdownLinks": true,
+  "legacyEditor": false,
+  "fileSortOrder": "alphabetical",
+  "attachmentFolderPath": "Extras/Media/image",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "root",
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "livePreview": true,
+  "showInlineTitle": false,
+  "showLineNumber": true,
+  "rightToLeft": false
+}

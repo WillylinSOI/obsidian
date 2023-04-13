@@ -1,0 +1,5 @@
+- [終結低效率工作漩渦：「GTD」時間管理之術 | YOTTA友讀——陪你成長的學習夥伴｜跨領域線上學習平台](https://www.yottau.com.tw/article/602)
+- [什麼是 GTD (Get things Done)？建立一套完善的時間管理系統 | by 朱騏 | PM的生產力工具箱 | Medium](https://link.medium.com/x2vPHJdRevb)
+- [GTD时间管理: 核心、步骤、要点与实践 - 知乎](https://zhuanlan.zhihu.com/p/37580356?utm_id=0)
+- [在滴答清单中实践 GTD | 帮助中心 - 滴答清单](https://help.dida365.com/tasks/a/6427792882765135872/%E5%9C%A8%E6%BB%B4%E7%AD%94%E6%B8%85%E5%8D%95%E4%B8%AD%E5%AE%9E%E8%B7%B5%20GTD)
+- [从方法论到实践，搞定时间管理 GTD - 少数派](https://sspai.com/post/57851)

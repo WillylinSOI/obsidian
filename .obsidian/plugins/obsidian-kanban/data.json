@@ -1,0 +1,29 @@
+{
+  "hide-card-count": false,
+  "show-checkboxes": false,
+  "hide-tags-in-title": false,
+  "tag-colors": [],
+  "link-date-to-daily-note": true,
+  "hide-tags-display": false,
+  "show-add-list": true,
+  "show-search": true,
+  "show-board-settings": true,
+  "show-relative-date": true,
+  "hide-date-display": false,
+  "hide-date-in-title": false,
+  "archive-with-date": true,
+  "append-archive-date": true,
+  "new-line-trigger": "enter",
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "backgroundColor": "rgba(62, 109, 148, 0)"
+    }
+  ],
+  "new-card-insertion-method": "prepend",
+  "new-note-folder": "Spaces/kanban",
+  "metadata-keys": []
+}

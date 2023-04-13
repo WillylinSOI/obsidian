@@ -1,0 +1,352 @@
+{
+  "main": {
+    "id": "f9ce93ce35d48243",
+    "type": "split",
+    "children": [
+      {
+        "id": "abeece576b9b45db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "033bc4ed8d3553d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2b4aeb59f3cfc29",
+    "type": "split",
+    "children": [
+      {
+        "id": "67d9d0a765eeceea",
+        "type": "tabs",
+        "dimension": 59.04471544715447,
+        "children": [
+          {
+            "id": "b6563de9aa853826",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce62bf5044d91dc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "c2c37e86efce03b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5888062563309258",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5c786bcc0e260f53",
+        "type": "tabs",
+        "dimension": 40.95528455284553,
+        "children": [
+          {
+            "id": "8b8c3c0f1a8301a3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "afd6ff22732495fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 404
+  },
+  "right": {
+    "id": "f34d9e123632b6d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7070858eaae6704",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70e9216708777d1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5043b7bb7074a4b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "eb35c293a8099d2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8dd1301a8fa979f7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "131d54b4aa370158",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "f8422dc296161683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e77f79cc60ea9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/display note/OGSM 清單.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9b5984da14a3758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/個人規劃/要學習的工具.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3dc031fa76ad26e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/個人規劃/每日精華.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5f10e1698b7496d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/個人規劃/習慣培養.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92d2118d16cd0067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/個人規劃/知識來源.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "457877a6b7199f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/display note/財務.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0be6cb1ab100c604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/個人規劃/做事流程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77bc138940916691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/個人規劃/學習計畫表.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "beb369b6d7cffcdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/display note/每日學習清單.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dddc9684621e061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/display note/暫時性每天該做的事.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:建立新畫布": false,
+      "random-note:開始漫遊筆記": false,
+      "file-tree-alternative:File Tree Alternative Plugin": true,
+      "templater-obsidian:Templater": false,
+      "templates:插入模板": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "workspaces:管理工作區配置": true,
+      "command-palette:開啟命令面板": false,
+      "graph:查看關聯圖": true
+    }
+  },
+  "active": "033bc4ed8d3553d1",
+  "lastOpenFiles": [
+    "obsidian",
+    "未命名 2.md",
+    "testsstst.md",
+    "Spaces/Life/Areas/個人規劃/學習計畫表.md",
+    "Spaces/Life/Areas/個人規劃/做事流程.md",
+    "Spaces/Life/Areas/個人規劃/習慣培養.md",
+    "Spaces/Life/Areas/個人規劃/知識來源.md",
+    "Spaces/Life/Areas/display note/財務.md",
+    "Spaces/Life/Areas/display note/每日學習清單.md",
+    "Spaces/Life/Areas/display note/暫時性每天該做的事.md",
+    "Calendar/day record/daily note/2023/04/2023-04-11 daily note.md",
+    "NOT PROCESS/Kuan Hung Dashboard.md",
+    "Spaces/Life/Areas/個人規劃/要學習的工具.md",
+    "Spaces/Life/Areas/display note/OGSM 清單.md",
+    "Spaces/Life/Areas/display note/要買的東西.md",
+    "Spaces/Life/Areas/個人規劃/每日精華.md",
+    "Spaces/Life/Areas/display note/待處理的事項.md",
+    "卡片盒筆記法是用來思考的，不是用來儲存記憶的.md",
+    "閱讀整理 - 最高效思考筆記術 - 卡片盒筆記法.md",
+    "卡片盒筆記法是以寫文章為導向的筆記法.md",
+    "何謂卡片盒筆記法.md",
+    "卡片盒筆記法_卡片種類 - 靈感筆記.md",
+    "卡片盒筆記法_卡片種類 -永久筆記.md",
+    "卡片盒筆記法_卡片種類 -文獻筆記.md",
+    "卡片盒筆記法_卡片種類 -連結筆記.md",
+    "卡片盒筆記法_卡片種類 -專案筆記.md"
+  ]
+}

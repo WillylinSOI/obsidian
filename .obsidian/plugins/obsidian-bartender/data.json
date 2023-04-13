@@ -1,0 +1,98 @@
+{
+  "statusBarOrder": [
+    "21158125591592961302657435",
+    "21067974228049922504376271",
+    "83468995725885441774479366",
+    "11586060828016642923666293",
+    "8699069710991360200722149",
+    "73008044530728963090287685",
+    "52451214360576003905287216",
+    "69481962280058881073376383",
+    "49871957650309124102765970",
+    "35658965975040004261697505",
+    "10196853656125443907058322",
+    "86515888475340801543377291",
+    "12843970849669122596921091",
+    "7fm"
+  ],
+  "ribbonBarOrder": [
+    "41672736233226241817959360",
+    "7841450641326080889518670",
+    "89919048761999362932526967",
+    "5401857677590528168024607",
+    "23373856269926401044791807",
+    "77979640974540801041624814",
+    "49045906590269441907241855",
+    "57606377706618882243535071",
+    "6852920968478723062152419",
+    "3856008753446912907088109"
+  ],
+  "fileExplorerOrder": {
+    "/": [
+      "Kuan Hung Dashboard.md",
+      "Atlas",
+      "Calendar",
+      "Cards",
+      "Extras",
+      "Sources",
+      "Spaces"
+    ],
+    "001Project": [
+      "001Project/待處理的事項.md",
+      "001Project/習慣培養.md",
+      "001Project/需要解決的問題.md",
+      "001Project/個人OGSM.md"
+    ],
+    "Templates": [
+      "Templates/article - Template.md",
+      "Templates/book - Template.md",
+      "Templates/chat - Template.md",
+      "Templates/class - Template.md",
+      "Templates/daily note - Template.md",
+      "Templates/ebook - Template.md",
+      "Templates/MOC- Template.md",
+      "Templates/none - Template.md",
+      "Templates/notion - Template.md",
+      "Templates/podcast - Template.md",
+      "Templates/templater",
+      "Templates/video - Template.md",
+      "Templates/weekly note - Template.md"
+    ],
+    "002Area/筆記法": [
+      "002Area/筆記法/如何將筆記分層規劃，將筆記分為{專案-任務-行動}.md",
+      "002Area/筆記法/利用evengreen筆記法可以讓各個筆記之間互相連結.md",
+      "002Area/筆記法/利用Progressive summary 漸進式總結筆記法可以有效地從文章中提取重點.md",
+      "002Area/筆記法/zettelkasten.md"
+    ],
+    "day record/daily note/2022/07": [
+      "day record/daily note/2022/07/2022-07-05 daily note.md",
+      "day record/daily note/2022/07/2022-07-06 daily note.md",
+      "day record/daily note/2022/07/2022-07-07 daily note.md",
+      "day record/daily note/2022/07/2022-07-08 daily note.md",
+      "day record/daily note/2022/07/2022-07-09 daily note.md",
+      "day record/daily note/2022/07/2022-07-10 daily note.md",
+      "day record/daily note/2022/07/2022-07-11 daily note.md",
+      "day record/daily note/2022/07/2022-07-12 daily note.md",
+      "day record/daily note/2022/07/2022-07-13 daily note.md",
+      "day record/daily note/2022/07/2022-07-14 daily note.md",
+      "day record/daily note/2022/07/2022-07-15 daily note.md",
+      "day record/daily note/2022/07/2022-07-16 daily note.md",
+      "day record/daily note/2022/07/2022-07-17 daily note.md",
+      "day record/daily note/2022/07/2022-07-18 daily note.md",
+      "day record/daily note/2022/07/2022-07-19 daily note.md",
+      "day record/daily note/2022/07/2022-07-20 daily note.md",
+      "day record/daily note/2022/07/2022-07-21 daily note.md",
+      "day record/daily note/2022/07/小謙.md"
+    ],
+    "000MOC": [
+      "000MOC/Kuan Hung Dashboard.md",
+      "000MOC/ZK 卡片盒筆記法moc.md",
+      "000MOC/筆記法moc.md",
+      "000MOC/新竹名產.md"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": true,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}

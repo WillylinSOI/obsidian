@@ -1,0 +1,114 @@
+{
+  "choices": [],
+  "macros": [
+    {
+      "name": "開啟檔案",
+      "id": "c05bd54c-d347-4819-bd0b-557e434a759a",
+      "commands": [
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "bac8d369-0476-4306-afcc-1d5a9ce7dd4c",
+          "choice": {
+            "id": "b2329a24-6e86-4c3e-9b48-5fa15677076f",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "0f403234-69d1-405f-bf61-d61851bbd6f4",
+          "choice": {
+            "id": "1cd2489b-f1f2-43ab-bfda-2c965ab362d5",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "337fad73-a0b9-4364-9b81-34deaa7b4d4d",
+          "time": 100
+        }
+      ],
+      "runOnStartup": true
+    },
+    {
+      "name": "123",
+      "id": "a26918fe-176f-4ec4-845d-1150098d5c8f",
+      "commands": [],
+      "runOnStartup": true
+    },
+    {
+      "name": "45646",
+      "id": "c6dec9e8-2b44-4328-8c8c-5bf0deeee807",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "multi-line",
+  "devMode": false,
+  "templateFolderPath": "Extras/Templates",
+  "announceUpdates": true,
+  "version": "0.16.0",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

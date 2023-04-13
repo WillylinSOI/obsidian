@@ -1,0 +1,35 @@
+{
+  "ProgressProperties": {
+    "enabled": false,
+    "properties": [
+      {
+        "name": "total",
+        "type": "Total Tasks"
+      }
+    ]
+  },
+  "IgnoredProperties": {
+    "enabled": true,
+    "properties": []
+  },
+  "AutoProperties": {
+    "enabled": true,
+    "properties": []
+  },
+  "EditMode": {
+    "mode": "All Single",
+    "properties": []
+  },
+  "KanbanHelper": {
+    "enabled": true,
+    "boards": [
+      {
+        "property": "test",
+        "boardName": "興趣 Kanban"
+      }
+    ]
+  },
+  "UIElements": {
+    "enabled": true
+  }
+}

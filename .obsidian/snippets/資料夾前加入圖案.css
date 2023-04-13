@@ -1,0 +1,32 @@
+div[data-path="000MOC"] .nav-folder-title-content::before
+{
+  content: "\1F945";
+}
+
+div[data-path="001Project"] .nav-folder-title-content::before
+{
+  content: "\1F3AF";
+}
+
+div[data-path="002Area"] .nav-folder-title-content::before
+{
+  content: "\1F3DB";
+}
+
+div[data-path="003Resource"] .nav-folder-title-content::before
+{
+  content: "\1f4cb";
+}
+
+div[data-path="004Archive"] .nav-folder-title-content::before
+{
+  content: "\1F5C4";
+}
+
+div[data-path="005Cache"] .nav-folder-title-content::before
+{
+  content: "\1F5D0";
+}
+
+
+/* emoji web http://www.unicode.org/emoji/charts/full-emoji-list.html*/ 

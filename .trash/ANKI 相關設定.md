@@ -1,0 +1,1 @@
+[The BEST Anki Settings and Algorithm Explained (by an expert!) - YouTube](https://www.youtube.com/watch?v=Eo1HbXEiJxo)

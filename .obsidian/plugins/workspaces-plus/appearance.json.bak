@@ -1,0 +1,17 @@
+{
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "多彩顏色框_文字用(note-color-(background))",
+    "彩色標籤",
+    "資料夾前加入圖案",
+    "S - Checkboxes",
+    "S - Images Adjustments",
+    "xxx較小的滾動條",
+    "supercharged-links-gen"
+  ],
+  "baseFontSize": 15,
+  "theme": "obsidian",
+  "accentColor": "",
+  "showViewHeader": true,
+  "nativeMenus": true
+}

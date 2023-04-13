@@ -1,0 +1,328 @@
+{
+  "main": {
+    "id": "f9ce93ce35d48243",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ab3861fbb1c4053",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "閱讀整理 - 最高效思考筆記術 - 卡片盒筆記法.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4311ce348571194b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "卡片盒筆記法是用來思考的，不是用來儲存記憶的.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2b4aeb59f3cfc29",
+    "type": "split",
+    "children": [
+      {
+        "id": "67d9d0a765eeceea",
+        "type": "tabs",
+        "dimension": 59.04471544715447,
+        "children": [
+          {
+            "id": "b6563de9aa853826",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b99cf07844215502",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce62bf5044d91dc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2c37e86efce03b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5c786bcc0e260f53",
+        "type": "tabs",
+        "dimension": 40.95528455284553,
+        "children": [
+          {
+            "id": "2bb6bca6a71a0721",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b8c3c0f1a8301a3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264
+  },
+  "right": {
+    "id": "f34d9e123632b6d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7070858eaae6704",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70e9216708777d1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "卡片盒筆記法是用來思考的，不是用來儲存記憶的.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5043b7bb7074a4b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "卡片盒筆記法是用來思考的，不是用來儲存記憶的.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "eb35c293a8099d2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "卡片盒筆記法是用來思考的，不是用來儲存記憶的.md"
+              }
+            }
+          },
+          {
+            "id": "8dd1301a8fa979f7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d9511348b5b280e",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "e46dceb8477cae14",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "131d54b4aa370158",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f8422dc296161683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51808860dacc3684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/display note/待處理的事項.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36e77f79cc60ea9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/display note/OGSM 清單.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e967308be14107c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/個人規劃/學習計畫表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9b5984da14a3758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/個人規劃/要學習的工具.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3dc031fa76ad26e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/個人規劃/每日精華.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5f10e1698b7496d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/個人規劃/習慣培養.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92d2118d16cd0067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/個人規劃/知識來源.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "457877a6b7199f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/display note/財務.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d45a171e1d7ed040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Areas/display note/要買的東西.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316
+  },
+  "active": "4311ce348571194b",
+  "lastOpenFiles": [
+    "Spaces/Life/Areas/display note/待處理的事項.md",
+    "卡片盒筆記法是用來思考的，不是用來儲存記憶的.md",
+    "閱讀整理 - 最高效思考筆記術 - 卡片盒筆記法.md",
+    "卡片盒筆記法是以寫文章為導向的筆記法.md",
+    "何謂卡片盒筆記法.md",
+    "卡片盒筆記法_卡片種類 - 靈感筆記.md",
+    "卡片盒筆記法_卡片種類 -永久筆記.md",
+    "卡片盒筆記法_卡片種類 -文獻筆記.md",
+    "卡片盒筆記法_卡片種類 -連結筆記.md",
+    "卡片盒筆記法_卡片種類 -專案筆記.md"
+  ]
+}
