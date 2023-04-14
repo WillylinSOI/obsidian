@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名 2",
-      "path": "未命名 2.md"
+      "basename": "每日搜集",
+      "path": "每日搜集.md"
+    },
+    {
+      "basename": "Task",
+      "path": "Task.md"
     },
     {
       "basename": "學習計畫表",
@@ -93,10 +97,6 @@
       "path": "Calendar/day record/daily note/2023/03/2023-03-30 daily note.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.md"
-    },
-    {
       "basename": "Day Planner-20230330",
       "path": "Day Planners/Day Planner-20230330.md"
     },
@@ -115,10 +115,6 @@
     {
       "basename": "kanban button",
       "path": "Extras/button/kanban button.md"
-    },
-    {
-      "basename": "20201103",
-      "path": "20201103.md"
     },
     {
       "basename": "家人護照名",
@@ -187,18 +183,6 @@
     {
       "basename": "身體放鬆小技巧",
       "path": "身體放鬆小技巧.md"
-    },
-    {
-      "basename": "2023-03-24 daily note",
-      "path": "Calendar/day record/daily note/2023/03/2023-03-24 daily note.md"
-    },
-    {
-      "basename": "系統思考Dashboard",
-      "path": "系統思考Dashboard.md"
-    },
-    {
-      "basename": "SWOT分析",
-      "path": "Cards/14 管理學/SWOT分析.md"
     }
   ],
   "omittedPaths": [

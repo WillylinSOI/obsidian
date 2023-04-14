@@ -343,6 +343,10 @@
         {
           "id": "folder-note-plugin",
           "name": "Folder Note"
+        },
+        {
+          "id": "remotely-save",
+          "name": "Remotely Save"
         }
       ],
       "groupIds": [],

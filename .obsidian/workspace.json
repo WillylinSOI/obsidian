@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "abeece576b9b45db",
+        "id": "e99f3ddc144027c2",
         "type": "tabs",
         "children": [
           {
-            "id": "033bc4ed8d3553d1",
+            "id": "fb9ce00f85341087",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "每日搜集.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -71,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "5c786bcc0e260f53",
@@ -115,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "每日搜集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "每日搜集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "每日搜集.md"
+              }
             }
           },
           {
@@ -325,9 +334,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "cmdr:Kanban: Toggle between Kanban and markdown mode": false,
       "canvas:建立新畫布": false,
       "random-note:開始漫遊筆記": false,
       "file-tree-alternative:File Tree Alternative Plugin": true,
@@ -336,13 +345,20 @@
       "daily-notes:開啟今天的每日筆記": false,
       "workspaces:管理工作區配置": true,
       "command-palette:開啟命令面板": false,
-      "graph:查看關聯圖": true
+      "graph:查看關聯圖": true,
+      "cmdr:Kanban: Toggle between Kanban and markdown mode": false
     }
   },
-  "active": "e7ab76d19dfd9377",
+  "active": "fb9ce00f85341087",
   "lastOpenFiles": [
-    "obsidian",
+    "README.md",
+    "20201103.md",
+    "未命名 1.md",
     "未命名 2.md",
+    "每日搜集.md",
+    "Task.md",
+    "Calendar/day record/daily note/2023/04/2023-04-13 daily note.md",
+    "obsidian",
     "testsstst.md",
     "Spaces/Life/Areas/個人規劃/學習計畫表.md",
     "Spaces/Life/Areas/個人規劃/做事流程.md",
@@ -361,11 +377,6 @@
     "卡片盒筆記法是用來思考的，不是用來儲存記憶的.md",
     "閱讀整理 - 最高效思考筆記術 - 卡片盒筆記法.md",
     "卡片盒筆記法是以寫文章為導向的筆記法.md",
-    "何謂卡片盒筆記法.md",
-    "卡片盒筆記法_卡片種類 - 靈感筆記.md",
-    "卡片盒筆記法_卡片種類 -永久筆記.md",
-    "卡片盒筆記法_卡片種類 -文獻筆記.md",
-    "卡片盒筆記法_卡片種類 -連結筆記.md",
-    "卡片盒筆記法_卡片種類 -專案筆記.md"
+    "何謂卡片盒筆記法.md"
   ]
 }
