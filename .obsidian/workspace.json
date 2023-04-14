@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "5c786bcc0e260f53",
@@ -162,9 +162,25 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "e7ab76d19dfd9377",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff307c18e46b02b8",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "f8422dc296161683",
@@ -309,6 +325,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "cmdr:Kanban: Toggle between Kanban and markdown mode": false,
       "canvas:建立新畫布": false,
       "random-note:開始漫遊筆記": false,
       "file-tree-alternative:File Tree Alternative Plugin": true,
@@ -320,7 +339,7 @@
       "graph:查看關聯圖": true
     }
   },
-  "active": "033bc4ed8d3553d1",
+  "active": "e7ab76d19dfd9377",
   "lastOpenFiles": [
     "obsidian",
     "未命名 2.md",
