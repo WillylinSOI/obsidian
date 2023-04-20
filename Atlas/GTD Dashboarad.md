@@ -58,6 +58,7 @@ path includes Spaces/Life/Projects
 path does not include Spaces/Life/Projects/kanban/
 ```
 
+description does not include
 # Reference
 
 ---
