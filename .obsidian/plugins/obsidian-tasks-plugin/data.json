@@ -1,10 +1,12 @@
 {
   "globalFilter": "",
   "removeGlobalFilter": false,
+  "taskFormat": "tasksPluginEmoji",
+  "setCreatedDate": false,
   "setDoneDate": true,
   "autoSuggestInEditor": true,
-  "autoSuggestMinMatch": 0,
-  "autoSuggestMaxItems": 6,
+  "autoSuggestMinMatch": 3,
+  "autoSuggestMaxItems": 12,
   "provideAccessKeys": true,
   "useFilenameAsScheduledDate": false,
   "filenameAsDateFolders": [],
@@ -49,5 +51,9 @@
   "headingOpened": {
     "Core Statuses": true,
     "Custom Statuses": true
+  },
+  "debugSettings": {
+    "ignoreSortInstructions": false,
+    "showTaskHiddenData": false
   }
 }
