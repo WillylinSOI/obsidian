@@ -4,23 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e99f3ddc144027c2",
+        "id": "d0ac8330f03173b9",
         "type": "tabs",
         "children": [
           {
-            "id": "fb9ce00f85341087",
+            "id": "050cd48a9871ce11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日搜集.md",
+                "file": "Atlas/GTD Dashboarad.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -76,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "5c786bcc0e260f53",
@@ -99,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日搜集.md",
+                "file": "Atlas/GTD Dashboarad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日搜集.md",
+                "file": "Atlas/GTD Dashboarad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日搜集.md"
+                "file": "Atlas/GTD Dashboarad.md"
               }
             }
           },
@@ -171,162 +171,23 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "e7ab76d19dfd9377",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "ff307c18e46b02b8",
-            "type": "leaf",
-            "state": {
-              "type": "toggl-report",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "f8422dc296161683",
         "type": "tabs",
         "children": [
           {
-            "id": "36e77f79cc60ea9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Life/Areas/display note/OGSM 清單.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9b5984da14a3758",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Life/Areas/個人規劃/要學習的工具.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3dc031fa76ad26e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Life/Areas/個人規劃/每日精華.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a5f10e1698b7496d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Life/Areas/個人規劃/習慣培養.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92d2118d16cd0067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Life/Areas/個人規劃/知識來源.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "457877a6b7199f5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Life/Areas/display note/財務.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0be6cb1ab100c604",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Life/Areas/個人規劃/做事流程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77bc138940916691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Life/Areas/個人規劃/學習計畫表.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "beb369b6d7cffcdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Life/Areas/display note/每日學習清單.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dddc9684621e061",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Life/Areas/display note/暫時性每天該做的事.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -335,8 +196,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "remotely-save:Remotely Save": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "canvas:建立新畫布": false,
       "random-note:開始漫遊筆記": false,
       "file-tree-alternative:File Tree Alternative Plugin": true,
@@ -346,37 +205,48 @@
       "workspaces:管理工作區配置": true,
       "command-palette:開啟命令面板": false,
       "graph:查看關聯圖": true,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "cmdr:Kanban: Toggle between Kanban and markdown mode": false
     }
   },
-  "active": "fb9ce00f85341087",
+  "active": "050cd48a9871ce11",
   "lastOpenFiles": [
-    "README.md",
-    "20201103.md",
-    "未命名 1.md",
-    "未命名 2.md",
-    "每日搜集.md",
-    "Task.md",
-    "Calendar/day record/daily note/2023/04/2023-04-13 daily note.md",
-    "obsidian",
-    "testsstst.md",
-    "Spaces/Life/Areas/個人規劃/學習計畫表.md",
-    "Spaces/Life/Areas/個人規劃/做事流程.md",
-    "Spaces/Life/Areas/個人規劃/習慣培養.md",
-    "Spaces/Life/Areas/個人規劃/知識來源.md",
-    "Spaces/Life/Areas/display note/財務.md",
-    "Spaces/Life/Areas/display note/每日學習清單.md",
-    "Spaces/Life/Areas/display note/暫時性每天該做的事.md",
-    "Calendar/day record/daily note/2023/04/2023-04-11 daily note.md",
-    "NOT PROCESS/Kuan Hung Dashboard.md",
-    "Spaces/Life/Areas/個人規劃/要學習的工具.md",
-    "Spaces/Life/Areas/display note/OGSM 清單.md",
-    "Spaces/Life/Areas/display note/要買的東西.md",
-    "Spaces/Life/Areas/個人規劃/每日精華.md",
-    "Spaces/Life/Areas/display note/待處理的事項.md",
-    "卡片盒筆記法是用來思考的，不是用來儲存記憶的.md",
-    "閱讀整理 - 最高效思考筆記術 - 卡片盒筆記法.md",
-    "卡片盒筆記法是以寫文章為導向的筆記法.md",
-    "何謂卡片盒筆記法.md"
+    "Sources/生活可用/書單.md",
+    "Sources/個人規劃/書本應用表.md",
+    "Untitled Kanban.md",
+    "Sources/登山/戶外登山品牌.md",
+    "Sources/個人規劃/知識來源.md",
+    "Sources/個人規劃/習慣培養.md",
+    "Sources/個人規劃/每日精華.md",
+    "Sources/個人規劃/做事流程.md",
+    "Sources/個人成長/錯誤紀錄表.md",
+    "Sources/個人規劃/學習計畫表.md",
+    "Sources/個人規劃/要學習的工具.md",
+    "Sources/生活可用/提神的方法.md",
+    "Sources/生活可用/幫助項目或網站.md",
+    "Sources/GTD資料/GTD 相關整理.md",
+    "Sources/display note/財務.md",
+    "Sources/個人規劃/2023個人OGSM.md",
+    "Sources/display note/要買的東西.md",
+    "Sources/AI相關資料/chatgpt使用技巧.md",
+    "Spaces/Life/Archive/生活/新竹名產.md",
+    "Sources/display note/假日需歸檔文件.md",
+    "Sources/display note/每日學習清單.md",
+    "Spaces/Life/Archive/生活/家人護照名.md",
+    "Spaces/Life/Archive/生活/父親節計畫.md",
+    "Sources/display note/OGSM 清單.md",
+    "Sources/display note/ticktick.md",
+    "Spaces/Life/Archive/生活/越南旅遊/越南旅遊.md",
+    "Spaces/Life/Archive/生活/越南旅遊",
+    "Spaces/Life/Projects/生活/春暉阿里山行程",
+    "Spaces/Life/Projects/生活/加拿大遊學9_4語言 10_10開課",
+    "Spaces/Life/Projects/生活/日本旅遊2023_6_21-6_26",
+    "Spaces/Life/Archive/生活",
+    "Spaces/Life/Archive/興趣",
+    "Spaces/Life/Archive/學習",
+    "Spaces/Life/Archive/專業",
+    "Spaces/Life/Projects/生活",
+    "Spaces/Life/Projects/興趣"
   ]
 }

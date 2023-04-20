@@ -5,8 +5,8 @@ aliases : []
 Tags : 
 ---
 # Metadata
-Status :: #🌿<br>
-Note Type :: #📥/📰<br>
+Status :: #note_seed<br>
+Note Type :: #type/📰<br>
 Source URL :: {[# 什麼是 GTD (Get things Done)？建立一套完善的時間管理系統](https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/%E4%BB%80%E9%BA%BC%E6%98%AF-gtd-get-things-done-1e266f71244a)}、{[【時間管理技巧】如何建立簡單的時間管理系統？3 步驟任務處理流程-Input、加工、Output](https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86%E6%8A%80%E5%B7%A7-%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E7%B0%A1%E5%96%AE%E7%9A%84%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1-3-%E6%AD%A5%E9%A9%9F%E4%BB%BB%E5%8B%99%E8%99%95%E7%90%86%E6%B5%81%E7%A8%8B-input-%E5%8A%A0%E5%B7%A5-output-a3b9a44665e3)}、
 {[[時間管理技巧】為什麼你的「規劃」沒有效？將**_「規劃」當作是一個任務，並且設定執行時間](https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86%E6%8A%80%E5%B7%A7-%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E7%9A%84-%E8%A6%8F%E5%8A%83-%E6%B2%92%E6%9C%89%E6%95%88-%E8%A8%AD%E5%AE%9A%E4%B8%80%E5%80%8B%E4%BB%BB%E5%8B%99%E5%B0%B1%E5%8F%AB%E5%81%9A-%E8%A6%8F%E5%8A%83-%E4%B8%A6%E4%B8%94%E8%A8%AD%E5%AE%9A%E5%9F%B7%E8%A1%8C%E6%99%82%E9%96%93-244b38feda68)]}、{[[重溫 GTD 時間管理 5 個經典步驟，讓在家工作、自我管理不雜亂](https://www.playpcesor.com/2021/06/gtd-5.html)]}、{[[無法做完事情嗎？使用以下 5 個步驟助駕馭儘管去做法](https://asana.com/zh-tw/resources/getting-things-done-gtd)]}<br>
 Author :: [[@朱騏]]<br>

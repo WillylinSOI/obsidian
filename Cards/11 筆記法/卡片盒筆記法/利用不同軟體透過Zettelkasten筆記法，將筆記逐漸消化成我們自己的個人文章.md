@@ -9,8 +9,8 @@ Tags :
 ---
 # Metadata
 Title :: 如何組織與吸收知識 — 魔改 Zettelkasten 筆記法<br>
-Status :: #🌿 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_seed <br>
+Note Type :: #type/📰<br>
 Source URL :: [如何組織與吸收知識 — 魔改 Zettelkasten 筆記法. 大部分我們曾經閱讀的資訊我們都無法記憶，最終這些知識就像是沒做好水土保持的水分一… | by Yuren Ju | Medium](https://yurenju.medium.com/zettelkasten-7b009bcf14b6)<br>
 Author :: [[@Yuren Ju]]<br>
 Topics :: {筆記跟什麼主題有關連，用`[Topic],[Topic]`格式}<br>

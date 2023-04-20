@@ -7,8 +7,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL ::
 1. [雙邊濾波器](https://cg2010studio.com/2012/10/14/%E9%9B%99%E9%82%8A%E6%BF%BE%E6%B3%A2%E5%99%A8-bilateral-filter/)
 2. [Bilateral Filters（双边滤波算法）原理及实现_Naruto_Q的博客-CSDN博客_bilateral filter](https://blog.csdn.net/piaoxuezhong/article/details/78302920)<br>

@@ -1,7 +1,7 @@
 {
   "groups": [
     {
-      "loadAtStartup": true,
+      "loadAtStartup": false,
       "disableOnStartup": false,
       "delay": 2,
       "id": "pg",
@@ -25,7 +25,7 @@
         }
       ],
       "groupIds": [],
-      "generateCommands": true,
+      "generateCommands": false,
       "assignedDevices": [],
       "autoAdd": false
     },
@@ -182,11 +182,11 @@
         }
       ],
       "groupIds": [],
-      "generateCommands": true,
+      "generateCommands": false,
       "autoAdd": false
     },
     {
-      "loadAtStartup": true,
+      "loadAtStartup": false,
       "disableOnStartup": false,
       "delay": 2,
       "id": "pg01",
@@ -246,11 +246,11 @@
         }
       ],
       "groupIds": [],
-      "generateCommands": true,
+      "generateCommands": false,
       "autoAdd": false
     },
     {
-      "loadAtStartup": true,
+      "loadAtStartup": false,
       "disableOnStartup": false,
       "delay": 2,
       "id": "pgob",
@@ -270,7 +270,7 @@
         }
       ],
       "groupIds": [],
-      "generateCommands": true,
+      "generateCommands": false,
       "autoAdd": false
     },
     {

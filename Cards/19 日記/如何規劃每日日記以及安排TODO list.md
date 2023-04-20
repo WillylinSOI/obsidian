@@ -6,8 +6,8 @@ Tags :
 ---
 # Metadata
 Title ::  如何梳理我的待辦事項 — 魔改子彈筆記法 <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL :: [如何梳理我的待辦事項 — 魔改子彈筆記法 - Yuren Ju - Medium](https://yurenju.medium.com/modified-bullet-journal-e0cccab3600)<br>
 Author :: [[@Yuren Ju]]<br>
 Topics :: {筆記跟什麼主題有關連，用`[Topic],[Topic]`格式}<br>

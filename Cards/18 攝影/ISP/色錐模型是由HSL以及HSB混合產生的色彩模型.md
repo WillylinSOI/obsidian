@@ -7,8 +7,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL ::[色彩模型|酷客网](https://www.coolcou.com/color-space-and-color-model/color-model.html)<br>
 Author :: {作者名稱}<br>
 Topics :: {筆記跟什麼主題有關連，用`[Topic],[Topic]`格式}<br>

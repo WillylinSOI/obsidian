@@ -6,8 +6,8 @@ aliases :
 Tags : 
 ---
 # Metadata
-Status :: #🌿 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_seed <br>
+Note Type :: #type/📰<br>
 Source URL :: {[P.A.R.A. 的 Notion 实践](https://www.notion.so/P-A-R-A-Notion-19909e5aac3049d887197dcfb1e97fd5)}、{[如何分類筆記？一套簡單又通用的分類架構 — PARA](https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/%E5%A6%82%E4%BD%95%E5%88%86%E9%A1%9E%E7%AD%86%E8%A8%98-e25c4cc39dba)}、{[親測好用：以PARA大法重整積壓十年的筆記【第二腦袋#3】](https://matters.news/@onelight/68255-%E8%A6%AA%E6%B8%AC%E5%A5%BD%E7%94%A8-%E4%BB%A5para%E5%A4%A7%E6%B3%95%E9%87%8D%E6%95%B4%E7%A9%8D%E5%A3%93%E5%8D%81%E5%B9%B4%E7%9A%84%E7%AD%86%E8%A8%98-%E7%AC%AC%E4%BA%8C%E8%85%A6%E8%A2%8B-3-bafyreie62txoinkprtesrun2d2irapzjwy36gaartrxol3jx63osxm6wf4)}、{[PARA 筆記整理法實作示範：簡單可行個人第二大腦知識管理系統](https://www.playpcesor.com/2022/04/para.html)}<br>
 Author :: [[@一燈大叔]]、[[@朱騏]]、[[@产品沉思录]]<br>
 Topics :: {筆記跟什麼主題有關連，用`[Topic],[Topic]`格式}<br>

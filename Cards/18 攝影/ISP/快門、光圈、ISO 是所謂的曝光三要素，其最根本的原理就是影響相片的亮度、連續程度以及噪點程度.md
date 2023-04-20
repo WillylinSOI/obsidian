@@ -8,8 +8,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL :: 
 1. [一圖看懂光圈、快門、ISO 與相片效果關係](https://www.newmobilelife.com/2015/02/27/take-photo-tutor/)
 2. [攝影:光圈/快門/EV值快速對照表 | hoher's blog 攝影/光影/生活](http://hoher.idv.tw/blog/?p=1928)

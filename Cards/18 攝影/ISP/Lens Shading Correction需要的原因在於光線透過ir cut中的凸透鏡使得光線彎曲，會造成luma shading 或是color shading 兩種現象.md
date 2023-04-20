@@ -9,8 +9,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL :: [ISP 对 Sensor 的 Lens-Shading 校正 - 大大通](https://www.wpgdadatong.com/tw/blog/detail?BID=B2168)<br>
 Author :: [[@开局一个碗]]<br>
 Topics :: {筆記跟什麼主題有關連，用`[Topic],[Topic]`格式}<br>

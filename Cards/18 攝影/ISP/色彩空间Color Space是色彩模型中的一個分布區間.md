@@ -7,8 +7,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL ::[色彩模型和色彩空间的区别|酷客网](https://www.coolcou.com/color-space-and-color-model/diff-of-color-model-and-color-space.html)<br>
 [色彩空間 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%96%93)<br>
 Author :: {作者名稱}<br>

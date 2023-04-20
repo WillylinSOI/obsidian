@@ -11,8 +11,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL :: 
 1. [从0开始建立相机传感器的噪音模型-理论篇 - 知乎](https://zhuanlan.zhihu.com/p/363366030)
 2. [暗光下拍攝應使用低 ISO 再後期提亮，還是高 ISO？ - GetIt01](https://www.getit01.com/p20190322131462389/)<br>

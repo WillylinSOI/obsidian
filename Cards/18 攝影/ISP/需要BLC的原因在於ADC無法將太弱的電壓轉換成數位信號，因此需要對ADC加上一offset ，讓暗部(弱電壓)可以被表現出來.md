@@ -8,8 +8,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL ::
 1. [ISP-黑电平校正(BLC)洗脚水煮饺子的博客-CSDN博客_暗电流矫正](https://blog.csdn.net/xiaoyouck/article/details/72824534)
 2. [ISP——BLC(Black Level Correction) - 知乎](https://zhuanlan.zhihu.com/p/386487708)<br>

@@ -10,8 +10,8 @@ child:
 ---
 
 # Metadata
-Status :: #🌱 <br>
-Note Type :: #📥/📘 <br>
+Status :: #note_grow <br>
+Note Type :: #type/📘 <br>
 
 ---
 # Evergreen

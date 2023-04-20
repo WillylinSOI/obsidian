@@ -8,8 +8,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL :: [攝像頭自動曝光，自動對焦，自動白平衡，ISP，影象處理及色彩模型，色彩空間 - CodeBuug](https://www.codebuug.com/cs115324741/)<br>
 Author :: [[]]<br>
 Topics :: {筆記跟什麼主題有關連，用`[Topic],[Topic]`格式}<br>

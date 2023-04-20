@@ -9,8 +9,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL :: [什麼是紅外線濾光片切換器 (ICR)? - Press Room | Brickcom Corporation 金磚通訊科技](https://www.brickcom.com.tw/news/press-release_detailview.php?id=277)<br>
 Author :: [[]]<br>
 Topics :: {筆記跟什麼主題有關連，用`[Topic],[Topic]`格式}<br>

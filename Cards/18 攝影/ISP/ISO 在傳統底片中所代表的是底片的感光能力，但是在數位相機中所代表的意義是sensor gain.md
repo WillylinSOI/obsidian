@@ -9,8 +9,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL :: 
 1. [数字成像系统概述|Camera](http://camera.geek-docs.com/camera-isp/digital-camera-system-intro.html)
 2. [曝光三要素 (曝光三角)：光圈、快門、ISO | 給初學者的 5 分鐘指南 - Tim Ting Photography](https://timtingphotography.com/exposure-triangle/)<br>

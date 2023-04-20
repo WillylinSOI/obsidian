@@ -8,8 +8,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL :: [ISP图像处理之Demosaic算法及相关 - 知乎](https://zhuanlan.zhihu.com/p/170610956)<br>
 Author :: [[@AomanHao]]<br>
 Topics :: {筆記跟什麼主題有關連，用`[Topic],[Topic]`格式}<br>

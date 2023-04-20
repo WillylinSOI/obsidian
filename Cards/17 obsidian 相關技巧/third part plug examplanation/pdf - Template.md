@@ -6,8 +6,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/🗒️<br>
+Status :: #note_grow <br>
+Note Type :: #type/🗒️<br>
 Source URL :: {pdf URL}<br>
 Author :: {作者名稱}<br>
 Topics :: {筆記跟什麼主題有關連，用`[Topic],[Topic]`格式}<br>

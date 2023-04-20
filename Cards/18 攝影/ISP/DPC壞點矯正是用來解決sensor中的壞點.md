@@ -9,8 +9,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL :: [ISP-坏点校正（DPC）洗脚水煮饺子的博客-CSDN博客 dpc是什么意思](https://blog.csdn.net/xiaoyouck/article/details/73134846)<br>
 Author :: [[@洗脚水煮饺子]]<br>
 Topics :: {筆記跟什麼主題有關連，用`[Topic],[Topic]`格式}<br>

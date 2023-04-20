@@ -7,8 +7,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL ::
 [高斯濾波及高斯卷積核C++實作 - 天天看點]([Fetching Title#2r5n](https://ithelp.ithome.com.tw/m/articles/10273833)
 [iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/m/articles/10273833)

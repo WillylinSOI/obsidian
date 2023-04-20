@@ -8,8 +8,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL :: [失眠必學！3 個快速入睡法：4-7-8 呼吸法、PMR、美軍兩分鐘速睡法，拯救睡不著的夜晚｜經理人八分生活](https://www.managertoday.com.tw/eightylife/article/view/409)<br>
 Author :: [[林柏源]]<br>
 Topics :: {筆記跟什麼主題有關連，用`[Topic],[Topic]`格式}<br>

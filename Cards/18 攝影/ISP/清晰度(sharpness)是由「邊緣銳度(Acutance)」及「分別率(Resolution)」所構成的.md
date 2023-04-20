@@ -8,8 +8,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL :: 
 - [【攝影教學】什麼是清晰度(Sharpness)？清晰度由邊緣銳度(Acutance)及分別率(Resolution)決定？ - 攝影入門教學 | ImageJoy](https://www.imagejoy.com/article/713)
 - [浅谈视频中的“清晰度”概念 - 知乎](https://zhuanlan.zhihu.com/p/476780601)<br>

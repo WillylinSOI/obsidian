@@ -7,8 +7,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL ::[Corel PHOTO-PAINT X6 Help](http://product.corel.com/help/PHOTO-PAINT/540240626/Main/CT/Doc/wwhelp/wwhimpl/common/html/wwhelp.htm?context=Corel_PHOTO_PAINT_Help&file=CorelDRAW_Understanding_color_models.html) <br>
 Author :: {作者名稱}<br>
 Topics :: {筆記跟什麼主題有關連，用`[Topic],[Topic]`格式}<br>

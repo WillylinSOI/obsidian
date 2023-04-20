@@ -7,8 +7,8 @@ Tags :
 ---
 # Metadata
 Title :: <br>
-Status :: #🌱 <br>
-Note Type :: #📥/📰<br>
+Status :: #note_grow <br>
+Note Type :: #type/📰<br>
 Source URL :: 
 [色彩模型|酷客网](https://www.coolcou.com/color-space-and-color-model/color-model.html)<br>
 [Corel PHOTO-PAINT X6 Help](http://product.corel.com/help/PHOTO-PAINT/540240626/Main/CT/Doc/wwhelp/wwhimpl/common/html/wwhelp.htm?context=Corel_PHOTO_PAINT_Help&file=CorelDRAW_Understanding_color_models.html)<br>

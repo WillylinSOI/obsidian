@@ -7,8 +7,8 @@ aliases :
 Tags : 
 ---
 # Metadata
-Status :: #🌿  <br>
-Note Type :: #📥/📰<br>
+Status :: #note_seed  <br>
+Note Type :: #type/📰<br>
 Source URL :: [網路文章URL](https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/obsidian-%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%B8-%E7%AD%86%E8%A8%98%E7%AF%87-02-%E4%BD%BF%E7%94%A8-%E6%BC%B8%E9%80%B2%E5%BC%8F%E7%B8%BD%E7%B5%90-%E4%BE%86%E5%AF%AB%E7%AD%86%E8%A8%98-%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%A5%97%E5%8F%AF%E6%8C%81%E7%BA%8C%E8%BF%AD%E4%BB%A3%E7%9A%84%E7%AD%86%E8%A8%98%E7%B3%BB%E7%B5%B1-f34f069f99a)<br>
 Author :: [[@朱騏]]<br>
 Topics :: {筆記跟什麼主題有關連，用`[Topic],[Topic]`格式}<br>
