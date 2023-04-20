@@ -49,16 +49,14 @@ group by folder
 
 ## Tasks 未歸檔檢視
 ```tasks
+description does not include 🛫
+description does not include 📅
 no tags
-no due date
-no start date
 not done
-no scheduled date
 path includes Spaces/Life/Projects
 path does not include Spaces/Life/Projects/kanban/
 ```
 
-description does not include
 # Reference
 
 ---

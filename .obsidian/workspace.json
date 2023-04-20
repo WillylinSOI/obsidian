@@ -19,8 +19,58 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01b3d3c7b451cb25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Projects/生活/日本旅遊2023_6_21-6_26/日本旅遊2023_6_21-6_26.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db3db7532e2447c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Projects/生活/加拿大遊學9_4語言 10_10開課/加拿大遊學9_4語言 10_10開課.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e005802288522e0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Spaces/Life/Projects/kanban/tasks-雜項.md"
+              }
+            }
+          },
+          {
+            "id": "c811708994adeac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Life/Projects/生活/日本旅遊2023_6_21-6_26/日本旅遊2023_6_21-6_26.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -120,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/GTD Dashboarad.md",
+                "file": "Spaces/Life/Projects/生活/日本旅遊2023_6_21-6_26/日本旅遊2023_6_21-6_26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/GTD Dashboarad.md",
+                "file": "Spaces/Life/Projects/生活/日本旅遊2023_6_21-6_26/日本旅遊2023_6_21-6_26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/GTD Dashboarad.md"
+                "file": "Spaces/Life/Projects/生活/日本旅遊2023_6_21-6_26/日本旅遊2023_6_21-6_26.md"
               }
             }
           },
@@ -210,8 +260,12 @@
       "cmdr:Kanban: Toggle between Kanban and markdown mode": false
     }
   },
-  "active": "050cd48a9871ce11",
+  "active": "01b3d3c7b451cb25",
   "lastOpenFiles": [
+    "Atlas/GTD Dashboarad.md",
+    "Spaces/Life/Projects/生活/日本旅遊2023_6_21-6_26/日本旅遊2023_6_21-6_26.md",
+    "Spaces/Life/Projects/生活/加拿大遊學9_4語言 10_10開課/加拿大遊學9_4語言 10_10開課.md",
+    "Spaces/Life/Projects/kanban/tasks-雜項.md",
     "Sources/生活可用/書單.md",
     "Sources/個人規劃/書本應用表.md",
     "Untitled Kanban.md",
@@ -234,10 +288,6 @@
     "Sources/display note/假日需歸檔文件.md",
     "Sources/display note/每日學習清單.md",
     "Spaces/Life/Archive/生活/家人護照名.md",
-    "Spaces/Life/Archive/生活/父親節計畫.md",
-    "Sources/display note/OGSM 清單.md",
-    "Sources/display note/ticktick.md",
-    "Spaces/Life/Archive/生活/越南旅遊/越南旅遊.md",
     "Spaces/Life/Archive/生活/越南旅遊",
     "Spaces/Life/Projects/生活/春暉阿里山行程",
     "Spaces/Life/Projects/生活/加拿大遊學9_4語言 10_10開課",
