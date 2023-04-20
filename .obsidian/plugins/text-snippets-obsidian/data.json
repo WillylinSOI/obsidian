@@ -1,0 +1,14 @@
+{
+  "snippets_file": "ttt : mmmmmmmmmmsdmfmasdfmmsadf",
+  "snippets": [
+    "ttt : mmmmmmmmmmsdmfmasdfmmsadf"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": true,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

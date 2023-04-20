@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Life/Projects/kanban/tasks-雜項.md",
+                "file": "每日搜集.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#GTD-METADATA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5c786bcc0e260f53",
@@ -98,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Life/Projects/kanban/tasks-雜項.md",
+                "file": "每日搜集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Life/Projects/kanban/tasks-雜項.md",
+                "file": "每日搜集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Life/Projects/kanban/tasks-雜項.md"
+                "file": "每日搜集.md"
               }
             }
           },
@@ -168,6 +170,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "51c82f1a8f17189b",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
             }
           }
         ],
@@ -205,18 +215,28 @@
       "graph:查看關聯圖": true,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "cmdr:Kanban: Toggle between Kanban and markdown mode": false
+      "cmdr:Kanban: Toggle between Kanban and markdown mode": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+      "periodic-notes:Open this week": false
     }
   },
   "active": "5e005802288522e0",
   "lastOpenFiles": [
-    "Spaces/Life/Projects/kanban/tasks-雜項.md",
     "Atlas/GTD Dashboarad.md",
+    "每日搜集.md",
+    "Spaces/Life/Projects/kanban/tasks-雜項.md",
+    "toggl track table.md",
+    "Untitled Kanban.md",
+    "Atlas/心理學效應DashBoard.md",
+    "Atlas/系統思考Dashboard.md",
+    "Atlas/清單Dashboard.md",
+    "Atlas/Kuan Hung Dashboard.md",
     "Spaces/Life/Projects/生活/加拿大遊學9_4語言 10_10開課/加拿大遊學9_4語言 10_10開課.md",
     "Spaces/Life/Projects/生活/日本旅遊2023_6_21-6_26/日本旅遊2023_6_21-6_26.md",
     "Sources/生活可用/書單.md",
     "Sources/個人規劃/書本應用表.md",
-    "Untitled Kanban.md",
     "Sources/登山/戶外登山品牌.md",
     "Sources/個人規劃/知識來源.md",
     "Sources/個人規劃/習慣培養.md",
@@ -230,12 +250,6 @@
     "Sources/GTD資料/GTD 相關整理.md",
     "Sources/display note/財務.md",
     "Sources/個人規劃/2023個人OGSM.md",
-    "Sources/display note/要買的東西.md",
-    "Sources/AI相關資料/chatgpt使用技巧.md",
-    "Spaces/Life/Archive/生活/新竹名產.md",
-    "Sources/display note/假日需歸檔文件.md",
-    "Sources/display note/每日學習清單.md",
-    "Spaces/Life/Archive/生活/家人護照名.md",
     "Spaces/Life/Archive/生活/越南旅遊",
     "Spaces/Life/Projects/生活/春暉阿里山行程",
     "Spaces/Life/Projects/生活/加拿大遊學9_4語言 10_10開課",

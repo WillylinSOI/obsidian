@@ -17,7 +17,6 @@
   "Enhanced-editing",
   "obsidian-advanced-uri",
   "calendar",
-  "obsidian-checklist-plugin",
   "convert-url-to-iframe",
   "obsidian-drag-n-drop-plugin",
   "obsidian-toggl-integration",
@@ -32,5 +31,6 @@
   "obsidian-auto-link-title",
   "auto-note-mover",
   "multi-column-markdown",
-  "remotely-save"
+  "remotely-save",
+  "metadata-menu"
 ]
