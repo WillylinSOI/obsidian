@@ -144,9 +144,7 @@
 - 
 
 ### 下午檢查清單
-檢視notion每日蒐集
 anki 複習原則和記憶宮殿
-檢查omnifocus待辦事項
 檢查行事曆
 檢視obsidian display 區中所有區域
 

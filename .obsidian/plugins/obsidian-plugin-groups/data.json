@@ -85,10 +85,6 @@
           "name": "Auto Link Title"
         },
         {
-          "id": "obsidian-checklist-plugin",
-          "name": "Checklist"
-        },
-        {
           "id": "obsidian-copy-block-link",
           "name": "Copy Block Link"
         },
@@ -133,20 +129,12 @@
           "name": "Tasks"
         },
         {
-          "id": "obsidian42-brat",
-          "name": "Obsidian42 - BRAT"
-        },
-        {
           "id": "obsidian-toggl-integration",
           "name": "Toggl Track"
         },
         {
           "id": "obsidian-textgenerator-plugin",
           "name": "Text Generator"
-        },
-        {
-          "id": "obsidian42-text-transporter",
-          "name": "Obsidian42 - Text Transporter"
         },
         {
           "id": "periodic-notes",
@@ -173,12 +161,20 @@
           "name": "Paste URL into selection"
         },
         {
-          "id": "various-complements",
-          "name": "Various Complements"
-        },
-        {
           "id": "workspaces-plus",
           "name": "Workspaces Plus"
+        },
+        {
+          "id": "remotely-save",
+          "name": "Remotely Save"
+        },
+        {
+          "id": "obsidian42-text-transporter",
+          "name": "Obsidian42 - Text Transporter"
+        },
+        {
+          "id": "metadata-menu",
+          "name": "Metadata Menu"
         }
       ],
       "groupIds": [],
@@ -243,6 +239,10 @@
         {
           "id": "supercharged-links-obsidian",
           "name": "Supercharged Links"
+        },
+        {
+          "id": "emoji-shortcodes",
+          "name": "Emoji Shortcodes"
         }
       ],
       "groupIds": [],
@@ -293,10 +293,6 @@
           "name": "cMenu"
         },
         {
-          "id": "metadata-menu",
-          "name": "Metadata Menu"
-        },
-        {
           "id": "obsidian-activity-history",
           "name": "Activity History"
         },
@@ -327,6 +323,30 @@
         {
           "id": "quick-explorer",
           "name": "Quick Explorer"
+        },
+        {
+          "id": "various-complements",
+          "name": "Various Complements"
+        },
+        {
+          "id": "global-search-and-replace",
+          "name": "Global Search and Replace"
+        },
+        {
+          "id": "make-md",
+          "name": "MAKE.md"
+        },
+        {
+          "id": "text-snippets-obsidian",
+          "name": "Text Snippets"
+        },
+        {
+          "id": "typing-transformer-obsidian",
+          "name": "Typing Transformer"
+        },
+        {
+          "id": "obsidian42-brat",
+          "name": "Obsidian42 - BRAT"
         }
       ],
       "groupIds": [],
@@ -341,12 +361,8 @@
       "name": "測試用",
       "plugins": [
         {
-          "id": "folder-note-plugin",
-          "name": "Folder Note"
-        },
-        {
-          "id": "remotely-save",
-          "name": "Remotely Save"
+          "id": "obsidian-metatable",
+          "name": "Metatable"
         }
       ],
       "groupIds": [],
@@ -407,14 +423,18 @@
         {
           "id": "waypoint",
           "name": "Waypoint"
+        },
+        {
+          "id": "obsidian-checklist-plugin",
+          "name": "Checklist"
         }
       ],
       "groupIds": [],
       "generateCommands": false
     }
   ],
-  "generateCommands": true,
-  "showNoticeOnGroupLoad": "normal",
+  "generateCommands": false,
+  "showNoticeOnGroupLoad": "none",
   "devLogs": false,
   "devices": [],
   "doLoadSynchronously": true,
