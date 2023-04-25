@@ -363,6 +363,30 @@
         {
           "id": "obsidian-metatable",
           "name": "Metatable"
+        },
+        {
+          "id": "emoji-shortcodes",
+          "name": "Emoji Shortcodes"
+        },
+        {
+          "id": "global-search-and-replace",
+          "name": "Global Search and Replace"
+        },
+        {
+          "id": "make-md",
+          "name": "MAKE.md"
+        },
+        {
+          "id": "obsidian-tagfolder",
+          "name": "TagFolder"
+        },
+        {
+          "id": "text-snippets-obsidian",
+          "name": "Text Snippets"
+        },
+        {
+          "id": "typing-transformer-obsidian",
+          "name": "Typing Transformer"
         }
       ],
       "groupIds": [],
